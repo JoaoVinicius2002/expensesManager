@@ -10,4 +10,4 @@ Esse projeto foi feito em React, foi um ótimo projeto para aplicar conceitos ch
 - Manipulação da DOM;
 - Event listeners;
 
-![expensesManager](https://user-images.githubusercontent.com/66966967/122140066-ace69500-ce20-11eb-8d6f-d27c9f447cb4.png)
+![expensesManager](https://user-images.githubusercontent.com/66966967/122140118-d1427180-ce20-11eb-86db-d7c9e8ff457c.png)
